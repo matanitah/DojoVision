@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+opencv-python
+flask
+flask-cors
+tqdm
+matplotlib
+yaml
+p_utils
+scipy
+tensorboard
